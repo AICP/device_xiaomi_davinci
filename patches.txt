@@ -4,3 +4,4 @@
 #e.g. 67313/1 http://gerrit.aicp-rom.com prebuilts/clang/host/linux-x86
 # clang 10.0.4
 105819/1 https://gerrit.aicp-rom.com hardware/libhardware
+108315/1 https://gerrit.aicp-rom.com proprietary_vendor_xiaomi
