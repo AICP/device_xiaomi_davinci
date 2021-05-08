@@ -5,9 +5,9 @@
         "branch": "lineage-18.1"
     },
     {
-        "repository": "AICP/proprietary_vendor_xiaomi",
-        "target_path": "vendor/xiaomi",
-        "branch": "r11.1"
+        "repository": "Spark-Devices/vendor_xiaomi_davinci",
+        "target_path": "vendor/xiaomi/davinci",
+        "branch": "fire"
     },
     {
         "repository": "AICP/kernel_xiaomi_sm6150",
